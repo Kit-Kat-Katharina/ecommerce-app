@@ -1,4 +1,4 @@
-package com.eccomerce.enums;
+package com.ecommerce.enums;
 
 public enum PaymentMethod {
     CREDIT_CARD,
